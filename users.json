@@ -1,1 +1,6 @@
-[{"user": "user", "pass": "pass"}]
+[
+    {
+        "user": "user", 
+        "pass": "pass"
+    }
+]
