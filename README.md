@@ -147,4 +147,4 @@ This project is for educational purposes only. Use responsibly and follow Instag
 
 # Author
 
-Developed by FindWithMe
+Developed by Usr
