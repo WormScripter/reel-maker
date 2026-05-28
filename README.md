@@ -82,10 +82,12 @@ Open the `users.json` file and add your Instagram username and password.
 Example:
 
 ```json
-{
-    "username": "your_instagram_username",
-    "password": "your_instagram_password"
-}
+[
+    {
+        "user":"user-name",
+        "pass":"password"
+    }
+]
 ```
 
 ---
